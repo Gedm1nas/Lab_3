@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_add">+</string>
+    <string name="button_subtract">-</string>
+    <string name="button_multiply">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_sqrt">√</string>
+    <string name="button_clear">C</string>
+    <string name="button_change_sign">±</string>
+</resources>
